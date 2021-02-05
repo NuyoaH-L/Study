@@ -1,2 +1,2 @@
-# Study about Python
+# Study
 This is a study repository
