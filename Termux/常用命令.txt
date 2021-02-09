@@ -1,0 +1,6 @@
+pkg search <query>搜索包
+pkg install <query> 安装包
+pkg uninstall <query> 卸载包
+pkg update 更新源
+pkg upgrade 升级软件包
+pkg shoe <packge> 显示某个包的详细信息
